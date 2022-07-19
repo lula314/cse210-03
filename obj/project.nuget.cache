@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "axroog9brjpCp0C/SreegjUiBtW1wUDcBAkVfR1J3UR6FKHXyz3jjzuSAST6+cUzddXQlygAUh/SdiOrqL18iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leldr\\OneDrive\\Documents\\CS\\cse210\\cse210-03\\cse210-03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leldr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
